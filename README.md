@@ -6,7 +6,7 @@ This project was implemented to create a sentiment analysis model using mobile h
 Through the results, it can be referred to when designing the sentiment classifier of the "Mobile Health domain".
 
 ## Data Description
-데이터 총 개수는 158,222개이며, 2015년 4월 8일부터 2021년 9월 2일까지의 기간동안 수집된 데이터입니다.  
+사용된 데이터 개수는 158,222개이며, 2015년 4월 8일부터 2021년 9월 2일까지의 기간동안 수집된 데이터입니다.  
 The number of datasets used for analysis is 158,222 from April 8, 2015 to September 2, 2021.
 
 ## Contents
