@@ -11,4 +11,4 @@ The number of datasets used for analysis is 158,222 from April 8, 2015 to Septem
 
 ## Contents
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-Python ver. 3.7.7
+ver 3.7.7
