@@ -3,7 +3,7 @@
 결과를 통해 Mobile Health domain의 감성분석 분류 모델 설계시 참고 가능합니다.  
   
 This project was implemented to create a sentiment analysis model using mobile health application reviews.  
-Through the results, it can be referred to when designing the sentiment analysis classifier of the mobile health domain.
+Through the results, it can be referred to when designing the sentiment classifier of the mobile health domain.
 
 ## Data Description
 데이터 총 개수는 158,222개이며, 2015년 4월 8일부터 2021년 9월 2일까지의 기간동안 수집된 데이터입니다.  
